@@ -2,7 +2,7 @@
 
 Simple Express Notes App
 
-### Created by : Prof. Shiburaj
+### Created by : Md. Hanzala Khan
 
 ## Steps to Deply
 - Fork this Repo
